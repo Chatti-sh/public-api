@@ -36,6 +36,6 @@ TBD: Kink compatibility, Community flags
 
 ## Installation
 
-Provide a `FLIST_USERNAME` and `FLIST_PASSWORD` in the .env, install dependencies with `npm i`, then run with `npm run dev`.
+Provide a `FLIST_USERNAME`, `FLIST_PASSWORD` and `FLIST_CHARACTER` in the .env, install dependencies with `npm i`, then run with `npm run dev`.
 
-This code is source-available under the [TBD] license.
+This code is open source under the [GNU Affero General Public License v3.0](https://github.com/Chatti-sh/public-api/blob/master/LICENSE).
