@@ -1,0 +1,4 @@
+data/db
+notes/
+.env
+node_modules/
